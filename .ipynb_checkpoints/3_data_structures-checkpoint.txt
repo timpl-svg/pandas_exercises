@@ -1,0 +1,11 @@
+1. If you had a spreadsheet with data, which pandas data structure would you use to hold the
+data? Why?
+
+It depends on how the data is organised. If a spreadsheet is just a single column
+then i'd use a Series object.
+Otherwise DataFrame is the right option.
+
+2. If you had a database with data, which pandas data structure would you use to hold the data?
+Why?
+
+Since the database is a table in most cases I'd use DataFrame object.
